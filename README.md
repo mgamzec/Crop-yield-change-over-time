@@ -1,8 +1,8 @@
 # Objective
 - In this notebook, I visualize the trends of crop yields in most populated countries over time. 
-- I'll also visualize the population growth in the world and the populated countries. 
+- I also visualize the population growth in the world and the populated countries. 
   - I worked on few countries in this notebook to optimally utilize the space. However, readers can use this code for the countries and crops of their choice.  
-- Also, I'll model and visualize the change in crop yield over time in the selected countries.
+- Also,modelling and visualize the change in crop yield over time in the selected countries.
 
 
 ![image](https://github.com/mgamzec/Crop-yield-change-over-time/assets/62151645/3c3ab6a2-5a12-470d-baa8-189e4aeef4fe)
